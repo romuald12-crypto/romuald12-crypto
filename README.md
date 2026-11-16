@@ -22,6 +22,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📄 Rapport de compétences
+
+Le détail de mes compétences, outils, projets et expériences est dans **[COMPETENCES.md](./COMPETENCES.md)**.
+
 ## 🚀 Projets
 
 - 🧾 **Kombiz** : SaaS de gestion commerciale (stocks, ventes, crédits clients) — Next.js, Supabase, SQL avec RLS, tests Vitest et Playwright
