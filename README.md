@@ -4,7 +4,7 @@
 
 # Bonjour, je suis Romuald 👋
 
-Étudiant en Master (Bac+5) en ingénierie informatique à Epitech. Je développe des applications web en TypeScript, React et Next.js, des API en Python et C#, et j'automatise des processus avec Power Automate et n8n. Je m'intéresse aussi aux réseaux, à la téléphonie IP et à la sécurité. Disponible pour une alternance ou un stage.
+Étudiant-ingénieur à Epitech, je conçois des applications web fiables et sécurisées : interfaces en TypeScript, React et Next.js, API en Python et C#, processus automatisés avec Power Automate et n8n. Passionné par les réseaux, la téléphonie IP et la cybersécurité, je cherche toujours à comprendre comment un système peut être attaqué pour mieux le protéger. Ouvert aux opportunités d'alternance et de stage.
 
 ## 🎯 Domaines
 
