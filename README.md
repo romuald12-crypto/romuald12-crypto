@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/photo.png" width="260" alt="Romuald Mbe Signe" />
+</p>
+
 # Bonjour, je suis Romuald 👋
 
 Étudiant en Master (Bac+5) en ingénierie informatique à Epitech. Je développe des applications web en TypeScript, React et Next.js, des API en Python et C#, et j'automatise des processus avec Power Automate et n8n. Je m'intéresse aussi aux réseaux, à la téléphonie IP et à la sécurité. Disponible pour une alternance ou un stage.
