@@ -1,13 +1,13 @@
 # Bonjour, je suis Romuald 👋
 
-Étudiant en **cybersécurité & infrastructure IT** (Bac+3 ESAIP), je travaille à la croisée de la **sécurité offensive**, de la **gestion des identités (IAM)** et du **développement full-stack**. J'aime comprendre comment un système peut casser, pour mieux le construire.
+Étudiant en Master (Bac+5) en ingénierie informatique à Epitech. Je développe des applications web en TypeScript, React et Next.js, des API en Python et C#, et j'automatise des processus avec Power Automate et n8n. Je m'intéresse aussi aux réseaux, à la téléphonie IP et à la sécurité. Disponible pour une alternance ou un stage.
 
 ## 🎯 Domaines
 
-- 🔐 **Pentest & DevSecOps** : tests d'intrusion, sécurisation des pipelines et de l'infrastructure
-- 🪪 **IAM & cybersécurité** : gestion des identités, contrôle d'accès, durcissement
-- 🌐 **Réseaux & infrastructure** : configuration, supervision, architecture
-- 💻 **Développement full-stack** : interfaces et APIs web sécurisées
+- 🔐 **Sécurité** : pentest, DevSecOps, IAM, audit cloud
+- 💻 **Développement** : front-end, back-end, mobile, tests
+- 🌐 **Réseaux & télécoms** : protocoles, équipements, téléphonie IP
+- ⚡ **Automatisation & IA** : Power Platform, n8n, LLM, outils d'assistance au code
 
 ## 🛠️ Stack technique
 

@@ -4,50 +4,59 @@ Ingénieur en formation en cybersécurité et infrastructure IT (Bac+3 ESAIP, An
 
 ---
 
-## 🔐 Sécurité
-
-- **Pentest & DevSecOps** : intégrer la sécurité dans les pipelines de développement et d'infrastructure
-- **IAM (gestion des identités et des accès)** : contrôle d'accès, gestion des rôles et des permissions
-- **Sécurité cloud** : audit avec Microsoft Defender for Cloud
-- **Sécurité des bases de données** : règles RLS (Row Level Security) sur PostgreSQL/Supabase, contrôles d'accès, idempotence des opérations
-- **Tests de sécurité automatisés** : scénarios de sécurité et de concurrence avec Vitest et Playwright
-
-## 🌐 Réseaux & infrastructure
-
-- Configuration et compréhension des réseaux IP
-- Simulation réseau avec **OMNeT++**, INET et Artery (communications V2X)
-- Étude de **Mobile IPv6 (MIPv6)** dans un contexte véhiculaire
-- Déploiement de services avec **Docker**
-- Environnements **Linux** et **Windows / PowerShell**
-
 ## 💻 Développement web
 
-- **Front-end** : React, JavaScript, TypeScript, HTML/CSS, Tailwind CSS, animations CSS
-- **Back-end** : Node.js, Python, APIs
-- **Frameworks** : Next.js, Flutter (mobile), Android
-- **Bases de données** : PostgreSQL, Supabase, SQL (requêtes, migrations)
-- **Tests** : Vitest, Playwright
+- **Front-end** : JavaScript (ES6+), TypeScript, React, Next.js, Angular, HTML5, CSS3, Tailwind CSS
+- **Back-end** : Node.js, Express, Python (Flask), C# / .NET Core, ASP.NET, APIs REST
+- **Mobile** : Flutter, Android
+- **Tests** : Vitest, Playwright, tests unitaires et fonctionnels
+- **Déploiement** : Vercel, Docker
 
-## 🧩 Low-code & écosystème Microsoft
+## 🗄️ Données et bases de données
 
-- **Power Apps** (Canvas Apps, formules Power Fx)
-- **Power Automate** (flux d'automatisation)
-- **Power BI** (tableaux de bord et indicateurs)
-- **Dataverse** et **AI Builder** (analyse de sentiment)
-- **Dynamics 365** et **Azure**
+- **SQL** : PostgreSQL, Supabase, MariaDB, SQL Server
+- **NoSQL** : MongoDB
+- Microsoft Dataverse, règles de sécurité par ligne (RLS), migrations
 
-## 🤖 Données & IA
+## 🤖 Intelligence artificielle et automatisation
 
-- Prototypes d'assistants basés sur des LLM
-- Usage d'assistants IA (ChatGPT, Claude) pour générer, corriger et déboguer du code et des requêtes SQL
-- Calcul scientifique avec **MATLAB** (boîte à outils Statistics and Machine Learning)
+- **IA** : LLM (Claude, GPT), LangChain, API OpenAI, MCP, prompt engineering
+- **Outils d'assistance au code** : Claude Code, Cursor, GitHub Copilot
+- **Automatisation** : Power Automate, Power Apps, n8n, Make, Zapier
 
-## 🛠️ Outils & méthodes
+## 🌐 Réseaux et télécoms
 
-- **Git / GitHub** : versionnement, dépôts publics
-- **Docker**, **Postman**, **Figma**, **Notion**, **Trello**
+- **Protocoles** : TCP/IP, DHCP, DNS, VLAN, inter-VLAN, Wi-Fi, VPN, SIP, OSPF, EIGRP
+- **Équipements** : routeurs, switches, bornes Wi-Fi, pare-feu, brassage et câblage structuré
+- **Téléphonie IP** : IPBX (Asterisk), PABX, Centrex, ToIP / VoIP
+- **Accès** : fibre optique, ADSL, HAProxy (répartition de charge)
+- **Outils** : Wireshark, tcpdump, Nmap, Cisco Packet Tracer
+- Simulation réseau avec **OMNeT++**, INET et Artery (communications V2X), étude de **Mobile IPv6 (MIPv6)**
+
+## ☁️ Systèmes et cloud
+
+- **Systèmes** : Windows, Windows Server, Linux, macOS
+- **Cloud** : Microsoft Azure, Microsoft Entra ID (SSO, RBAC), Active Directory, Google Workspace
+- **Audit** : configuration de Microsoft Defender for Cloud
+- **Gestion de versions** : Git, Azure DevOps
+
+## 🔐 Sécurité
+
+- **Environnements d'entraînement** : Kali Linux, DVWA, TryHackMe, HackTheBox
+- **Tests** : tests d'intrusion, Burp Suite, Metasploit, cartographie de surface d'attaque
+- **Protection** : authentification JWT, chiffrement AES-256-GCM, bcrypt
+- **DevSecOps et IAM** : sécurisation des pipelines, contrôle d'accès, gestion des rôles et des permissions
+
+## 🧰 Scripts et langages
+
+Python, JavaScript, TypeScript, C#, SQL, Bash, PowerShell
+
+## 🔧 Outils et méthodes
+
+- **Git / GitHub**, **Docker**, **Postman**, **Figma**, **Notion**, **Trello**
 - **Documentation technique** : guides d'utilisation, documentation de projet, rapports
 - **Rédaction bilingue** : documents professionnels en français et en anglais
+- **Calcul scientifique** : MATLAB (boîte à outils Statistics and Machine Learning)
 
 ---
 
@@ -74,7 +83,7 @@ Ingénieur en formation en cybersécurité et infrastructure IT (Bac+3 ESAIP, An
 
 - **Bac+3 Cybersécurité & Infrastructure IT**, ESAIP (Angers)
 - **Échange Erasmus** à l'université BME de Budapest, pendant la 3e année à l'ESAIP
-- **Mastère 1 Cybersécurité**, Epitech (inscrit)
+- **Epitech** : master en cours
 
 ## 🎯 Recherche
 
