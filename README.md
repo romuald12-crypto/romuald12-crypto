@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/photo.png" width="260" alt="Romuald Mbe Signe" />
-</p>
-
 # Bonjour, je suis Romuald 👋
 
 Étudiant-ingénieur à Epitech, je conçois des applications web fiables et sécurisées : interfaces en TypeScript, React et Next.js, API en Python et C#, processus automatisés avec Power Automate et n8n. Passionné par les réseaux, la téléphonie IP et la cybersécurité, je cherche toujours à comprendre comment un système peut être attaqué pour mieux le protéger. Ouvert aux opportunités d'alternance et de stage.
